@@ -1,0 +1,144 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 980 (ID=0x13c0)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   20.19.15.4531
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Hugh Kim\Desktop\dungeonDash_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Hugh Kim\Desktop\dungeonDash_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Hugh Kim\Desktop\dungeonDash_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Hugh Kim\Desktop\dungeonDash_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Hugh Kim\Desktop\dungeonDash_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Hugh Kim\Desktop\dungeonDash_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Hugh Kim\Desktop\dungeonDash_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Hugh Kim\Desktop\dungeonDash_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Hugh Kim\Desktop\dungeonDash_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Hugh Kim\Desktop\dungeonDash_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Hugh Kim\Desktop\dungeonDash_Data\Managed\OSCsharp.dll (this message is harmless)
+Loading C:\Users\Hugh Kim\Desktop\dungeonDash_Data\Managed\OSCsharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Hugh Kim\Desktop\dungeonDash_Data\Managed\TUIOsharp.dll (this message is harmless)
+Loading C:\Users\Hugh Kim\Desktop\dungeonDash_Data\Managed\TUIOsharp.dll into Unity Child Domain
+- Completed reload, in  0.032 seconds
+Platform assembly: C:\Users\Hugh Kim\Desktop\dungeonDash_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Hugh Kim\Desktop\dungeonDash_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on GameManager
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 382)
+
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.803075 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.549957 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 550.
+Total: 5.361500 ms (FindLiveObjects: 0.040541 ms CreateObjectMapping: 0.020270 ms MarkObjects: 0.404389 ms  DeleteObjects: 4.889370 ms)
+
+[TouchScript] Initialized Windows 8 touch input.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TouchScript] Initialized Windows 8 mouse input.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+player 1 is ready.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ReadyButton1Type1: 1 Type2:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+player 1 is ready.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ReadyButton2Type1: 1 Type2:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.165207 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 506.
+Total: 5.326603 ms (FindLiveObjects: 0.035922 ms CreateObjectMapping: 0.018218 ms MarkObjects: 0.205530 ms  DeleteObjects: 5.066418 ms)
+
+[TouchScript] Initialized Windows 8 touch input.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TouchScript] Initialized Windows 8 mouse input.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+point position: 510, 754
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Screen: 1920, 1080
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+up
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+point position: 233, 565
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Screen: 1920, 1080
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+left
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+victory
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.860513 ms
+
+Unloading 130 unused Assets to reduce memory usage. Loaded Objects now: 391.
+Total: 4.272265 ms (FindLiveObjects: 0.039515 ms CreateObjectMapping: 0.030277 ms MarkObjects: 0.208609 ms  DeleteObjects: 3.993605 ms)
+
+[TouchScript] Initialized Windows 8 touch input.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TouchScript] Initialized Windows 8 mouse input.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+test
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.566556 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 522.
+Total: 0.464432 ms (FindLiveObjects: 0.042081 ms CreateObjectMapping: 0.022580 ms MarkObjects: 0.388481 ms  DeleteObjects: 0.011033 ms)
+
+[TouchScript] Initialized Windows 8 touch input.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TouchScript] Initialized Windows 8 mouse input.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3070 -> priority: 1 
+  Thread -> id: 3814 -> priority: 1 
